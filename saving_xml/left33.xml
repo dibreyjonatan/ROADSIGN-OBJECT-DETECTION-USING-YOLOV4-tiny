@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>left33.jpg</filename>
+	<path>C:\Users\Minfo\Desktop\road\dataset\left33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>3</ymin>
+			<xmax>178</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

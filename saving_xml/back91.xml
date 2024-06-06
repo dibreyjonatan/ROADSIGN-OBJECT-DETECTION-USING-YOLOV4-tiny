@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>back91.jpg</filename>
+	<path>C:\Users\Minfo\Desktop\road\dataset\back91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>179</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>65</ymin>
+			<xmax>119</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>stop86.jpg</filename>
+	<path>C:\Users\Minfo\Desktop\road\dataset\stop86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>253</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>60</ymin>
+			<xmax>130</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

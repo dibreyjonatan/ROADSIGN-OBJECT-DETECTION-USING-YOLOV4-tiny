@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>right8.jpg</filename>
+	<path>C:\Users\Minfo\Desktop\road\dataset\right8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>28</ymin>
+			<xmax>142</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>straight43.jpg</filename>
+	<path>C:\Users\Minfo\Desktop\road\dataset\straight43.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>109</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>104</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

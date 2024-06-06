@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>data_0_7866.jpg</filename>
+	<path>C:\Users\Minfo\Desktop\road\dataset\data_0_7866.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>31</ymin>
+			<xmax>135</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>
